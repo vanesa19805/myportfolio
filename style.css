@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: plum;
+    margin: 0px;
+    padding:0px;
+}
+
+.float-left{
+    float: left;
+    width: 1000px;
+    margin-right: 100 px;
+}
+
+.home{
+    float:middle;
+    
+}
+
+
+p{
+    position:left;
+    width: 500
+
+}
+
+.box-1{
+    top: 10px;
+    left:10px
+}
+
+footer{
+    color: purple;
+    height: 10%;
+}

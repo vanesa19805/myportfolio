@@ -1,0 +1,15 @@
+section{
+    float:left;
+    margin:100px;
+    width:50%;
+}
+
+aside{
+    float:right;
+    margin:0px;
+    width: 25%;
+}
+head{
+    float: left;
+
+}
